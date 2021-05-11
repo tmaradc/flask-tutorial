@@ -1,4 +1,5 @@
 # flask-tutorial
+    https://flask.palletsprojects.com/en/1.1.x/tutorial/
 
 ## New Project
 
@@ -14,4 +15,6 @@
 ## Run the project
 
 ### You should be in the top-level flask-tutorial
+    set FLASK_APP=flaskr
+    set FLASK_ENV=development
     flask run
